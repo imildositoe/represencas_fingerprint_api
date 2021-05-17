@@ -2,6 +2,9 @@ package com.imildo.represencas_api_fingerprint_.controller;
 
 import java.io.File;
 
+/**
+ * @author Imildo Sitoe
+ */
 public class CheckDirectories {
 
     public CheckDirectories() {

@@ -4,6 +4,9 @@ import com.imildo.represencas_api_fingerprint_.controller.CheckDirectories;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
+/**
+ * @author Imildo Sitoe
+ */
 @SpringBootApplication
 public class RepresencasApiFingerprintApplication {
 
